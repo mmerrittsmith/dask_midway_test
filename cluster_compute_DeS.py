@@ -8,7 +8,7 @@ def main():
 	cluster = SLURMCluster(cores=24,
 					   memory='40GB',
 					   walltime='08:00:00',
-					   log_directory='/home/merrittsmithdask_log',
+					   log_directory='/home/merrittsmith/dask_log',
 					   local_directory='/home/merrittsmith/dask_out',
 					   job_extra=['--partition=broadwl'])
 
