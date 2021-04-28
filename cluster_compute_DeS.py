@@ -18,7 +18,7 @@ def main():
 
 
 def grab_DeS_GADM_codes():
-	with open('grab_DeS_GADM_codes.txt', 'r+') as read_file:
+	with open('DeS_GADM_codes.txt', 'r+') as read_file:
 		DeS_codes = read_file.read()
 	DeS_codes = DeS_codes.split(', ')
 	filenames = [filename_helper(code) for code in DeS_codes]
