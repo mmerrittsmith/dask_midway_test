@@ -4,7 +4,7 @@ import subprocess
 
 
 def main():
-	filenames = grab_DeS_GADM_filenames()
+	filenames = grab_DeS_GADM_codes()
 	cluster = SLURMCluster(cores=24,
 					   memory='40GB',
 					   walltime='08:00:00',
