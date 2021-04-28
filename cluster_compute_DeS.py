@@ -14,7 +14,7 @@ def main():
 
 	cluster.adapt(maximum_jobs=20)
 	client = Client(cluster)
-	client.map(filenames, run_block_summary)
+	client.map(run_block_summary, filenames)
 
 
 def grab_DeS_GADM_codes():
