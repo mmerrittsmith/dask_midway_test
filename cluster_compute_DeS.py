@@ -2,6 +2,7 @@ from dask_jobqueue import SLURMCluster
 from dask.distributed import Client
 import subprocess
 import logging
+import bokeh
 
 
 def main():
@@ -16,7 +17,8 @@ def main():
 
 	cluster.adapt(maximum_jobs=20)
 	client = Client(cluster)
-	client.map(run_block_summary, filenames)
+	with performance_report(filename='DeS_dask_report.html'):
+		client.map(run_block_summary, filenames)
 	print(cluster.job_script())
 
 def grab_DeS_GADM_codes():
