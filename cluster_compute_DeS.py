@@ -1,9 +1,11 @@
 from dask_jobqueue import SLURMCluster
 from dask.distributed import Client
 import subprocess
+import logging
 
 
 def main():
+	logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 	filenames = grab_DeS_GADM_codes()
 	cluster = SLURMCluster(cores=24,
 					   memory='40GB',
@@ -15,7 +17,7 @@ def main():
 	cluster.adapt(maximum_jobs=20)
 	client = Client(cluster)
 	client.map(run_block_summary, filenames)
-
+	print(cluster.job_script())
 
 def grab_DeS_GADM_codes():
 	with open('DeS_GADM_codes.txt', 'r+') as read_file:
