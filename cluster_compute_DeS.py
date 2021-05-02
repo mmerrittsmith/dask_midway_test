@@ -18,7 +18,7 @@ def main():
                            walltime='08:00:00',
                            log_directory='/home/merrittsmith/dask_log',
                            local_directory='/home/merrittsmith/dask_out',
-                           job_extra=['--partition=broadwl'],
+                           job_extra=['--partition=broadwl', '--account=pi-bettencourt'],
                            protocol='ib0')
 
     cluster.scale(8)

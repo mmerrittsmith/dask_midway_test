@@ -1,4 +1,5 @@
 # basic_parallelize.py
+import subprocess
 
 def main():
 	filenames = grab_DeS_GADM_codes()
@@ -32,9 +33,10 @@ def gen_sbatch_script(code_set, job_num):
                     '--blocks_dir', '/project2/bettencourt/mnp/prclz/data/blocks/Africa/TZA',
                     '--gadm_dir', '/project2/bettencourt/mnp/prclz/data/GADM/TZA',
                     '--summary_out_path', code_set['summary_path']])
-    sbatch_options = '\n'.join(['--job-name=parallel_block_summary_test_'+str(job_num), '--output=DeS_parallel_summary.out', 'error=DeS_parallel_block_summary.err',
+    sbatch_options =  ['--job-name=parallel_block_summary_test_'+str(job_num), '--output=DeS_parallel_summary.out', '--error=DeS_parallel_block_summary.err',
                       '--time=8:00:00', '--partition=broadwl', '--nodes=1', '--ntasks-per-node=1', '--mem-per-cpu=40000', 
-                      '--mail-type=END', '--mail-user=merrittsmith@uchicago.edu'])
+                      '--mail-type=END', '--mail-user=merrittsmith@uchicago.edu']
+    sbatch_options = '\n'.join(['#SBATCH' + option for option in sbatch_options])
     sbatch_script = '\n'.join(['#!/bin/bash', sbatch_options, last_line])
 
     return sbatch_script
