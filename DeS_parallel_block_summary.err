@@ -1,0 +1,378 @@
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area

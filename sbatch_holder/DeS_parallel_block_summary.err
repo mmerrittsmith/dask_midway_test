@@ -1,0 +1,38 @@
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/_compat.py:106: UserWarning: The Shapely GEOS version (3.8.0-CAPI-1.13.1 ) is incompatible with the GEOS version PyGEOS was compiled with (3.9.0-CAPI-1.16.2). Conversions between both will be slow.
+  warnings.warn(
+/home/merrittsmith/miniconda3/lib/python3.8/site-packages/libpysal/examples/remotes.py:26: UserWarning: Remote data sets not available. Check connection.
+  warnings.warn("Remote data sets not available. Check connection.")
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:197: UserWarning: CRS mismatch between the CRS of left geometries and the CRS of right geometries.
+Use `to_crs()` to reproject one of the input geometries to match the CRS of the other.
+
+Left CRS: EPSG:4326
+Right CRS: None
+
+  geo = gpd.sjoin(buildings_gdf, population_gdf,
+/home/merrittsmith/mnp-analysis/analytics2/utils/raster_tools.py:216: UserWarning: Geometry is in a geographic CRS. Results from 'area' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  geo['num_area'] = geo.geometry.area
+Traceback (most recent call last):
+  File "/home/merrittsmith/mnp-analysis/analytics2/utils/block_summary.py", line 177, in <module>
+    make_summary(**vars(args))
+  File "/home/merrittsmith/mnp-analysis/analytics2/utils/block_summary.py", line 145, in make_summary
+    aoi_bldg_summary = block_stats.make_aoi_summary(bldg_pop_alloc, aoi_blocks)
+  File "/home/merrittsmith/mnp-analysis/analytics2/utils/block_stats.py", line 264, in make_aoi_summary
+    bldg_pop = add_block_rectangularity(bldg_pop, block)
+  File "/home/merrittsmith/mnp-analysis/analytics2/utils/block_stats.py", line 214, in add_block_rectangularity
+    bldg_pop_good_areas['rectangularity'] = Rectangularity(bldg_pop_good_areas, areas='block_area').series
+  File "/home/merrittsmith/miniconda3/lib/python3.8/site-packages/momepy/shape.py", line 683, in __init__
+    self.series = gdf.apply(
+  File "/home/merrittsmith/miniconda3/lib/python3.8/site-packages/geopandas/geodataframe.py", line 1361, in apply
+    result = super().apply(
+  File "/home/merrittsmith/miniconda3/lib/python3.8/site-packages/pandas/core/frame.py", line 7768, in apply
+    return op.get_result()
+  File "/home/merrittsmith/miniconda3/lib/python3.8/site-packages/pandas/core/apply.py", line 185, in get_result
+    return self.apply_standard()
+  File "/home/merrittsmith/miniconda3/lib/python3.8/site-packages/pandas/core/apply.py", line 276, in apply_standard
+    results, res_index = self.apply_series_generator()
+  File "/home/merrittsmith/miniconda3/lib/python3.8/site-packages/pandas/core/apply.py", line 290, in apply_series_generator
+    results[i] = self.f(v)
+  File "/home/merrittsmith/miniconda3/lib/python3.8/site-packages/momepy/shape.py", line 684, in <lambda>
+    lambda row: row[areas] / (row.geometry.minimum_rotated_rectangle.area),
+ZeroDivisionError: float division by zero

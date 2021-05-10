@@ -1,0 +1,486 @@
+GADM list: ['TZA.2.3.7_1', 'TZA.2.3.10_1', 'TZA.2.3.13_1', 'TZA.2.3.20_1', 'TZA.2.3.27_1', 'TZA.2.3.29_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.7_1.geojson
+Saved to:       building highway  ...    block_pop block_pop_density
+0          yes    None  ...   138.314421        724.564029
+1          yes    None  ...   138.314421        724.564029
+2          yes    None  ...   138.314421        724.564029
+3          yes    None  ...   138.314421        724.564029
+4          yes    None  ...   138.314421        724.564029
+...        ...     ...  ...          ...               ...
+10808      yes    None  ...  4428.565477       1952.421648
+10809      yes    None  ...  4428.565477       1952.421648
+10810      yes    None  ...  4428.565477       1952.421648
+10811      yes    None  ...  4428.565477       1952.421648
+10812      yes    None  ...  4428.565477       1952.421648
+
+[10813 rows x 20 columns]
+block summary took 135.6816325187683
+GADM list: ['TZA.2.1.15_1', 'TZA.2.3.11_1', 'TZA.2.3.15_1', 'TZA.2.3.23_1', 'TZA.2.3.25_1', 'TZA.2.3.30_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.11_1.geojson
+Saved to:       building highway  ...    block_pop block_pop_density
+0          yes    None  ...          NaN               NaN
+1          yes    None  ...  3180.357812       6512.685561
+2          yes    None  ...          NaN               NaN
+3          yes    None  ...  3180.357812       6512.685561
+4          yes    None  ...          NaN               NaN
+...        ...     ...  ...          ...               ...
+31491      yes    None  ...          NaN               NaN
+31492      yes    None  ...          NaN               NaN
+31493      yes    None  ...          NaN               NaN
+31494      yes    None  ...          NaN               NaN
+31495      yes    None  ...          NaN               NaN
+
+[31496 rows x 20 columns]
+block summary took 49.61714029312134
+GADM list: ['TZA.2.1.3_1', 'TZA.2.1.17_1', 'TZA.2.3.6_1', 'TZA.2.3.14_1', 'TZA.2.3.19_1', 'TZA.2.3.21_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.14_1.geojson
+Saved to:          building highway  ...     block_pop block_pop_density
+0      commercial    None  ...           NaN               NaN
+1      commercial    None  ...           NaN               NaN
+2      commercial    None  ...           NaN               NaN
+3      commercial    None  ...    288.719285      40538.925359
+4      commercial    None  ...           NaN               NaN
+...           ...     ...  ...           ...               ...
+14658         yes    None  ...  15620.724436      14280.707305
+14659         yes    None  ...  15620.724436      14280.707305
+14660         yes    None  ...  15620.724436      14280.707305
+14661         yes    None  ...  15620.724436      14280.707305
+14662         yes    None  ...  15620.724436      14280.707305
+
+[14663 rows x 20 columns]
+block summary took 46.871952533721924
+GADM list: ['TZA.2.3.12_1', 'TZA.2.3.13_1', 'TZA.2.3.22_1', 'TZA.2.3.24_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.12_1.geojson
+Saved to:      building highway  ...   block_pop block_pop_density
+0         yes    None  ...  749.196074         170.82554
+1         yes    None  ...  749.196074         170.82554
+2         yes    None  ...  749.196074         170.82554
+3         yes    None  ...  749.196074         170.82554
+4         yes    None  ...  749.196074         170.82554
+...       ...     ...  ...         ...               ...
+3247      yes    None  ...         NaN               NaN
+3248      yes    None  ...         NaN               NaN
+3249      yes    None  ...         NaN               NaN
+3250      yes    None  ...         NaN               NaN
+3251      yes    None  ...         NaN               NaN
+
+[3252 rows x 20 columns]
+block summary took 90.5820198059082
+GADM list: ['TZA.2.1.12_1', 'TZA.2.1.14_1', 'TZA.2.1.19_1', 'TZA.2.3.3_1', 'TZA.2.3.5_1', 'TZA.2.3.18_1', 'TZA.20.6.16_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.3_1.geojson
+Saved to:       building highway  ...    block_pop block_pop_density
+0          yes    None  ...  1539.438862       2800.169632
+1          yes    None  ...          NaN               NaN
+2          yes    None  ...          NaN               NaN
+3          yes    None  ...          NaN               NaN
+4          yes    None  ...          NaN               NaN
+...        ...     ...  ...          ...               ...
+52119      yes    None  ...          NaN               NaN
+52120      yes    None  ...    29.230960        333.443010
+52121      yes    None  ...    29.230960        333.443010
+52122      yes    None  ...    29.230960        333.443010
+52123      yes    None  ...    29.230960        333.443010
+
+[52124 rows x 20 columns]
+block summary took 393.39630579948425
+GADM list: ['TZA.2.3.1_1', 'TZA.2.3.7_1', 'TZA.2.3.10_1', 'TZA.2.3.16_1', 'TZA.2.3.17_1', 'TZA.2.3.21_1', 'TZA.2.3.27_1', 'TZA.2.3.29_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.10_1.geojson
+Saved to:       building highway  ...    block_pop block_pop_density
+0          yes    None  ...          NaN               NaN
+1          yes    None  ...          NaN               NaN
+2          yes    None  ...          NaN               NaN
+3          yes    None  ...          NaN               NaN
+4          yes    None  ...          NaN               NaN
+...        ...     ...  ...          ...               ...
+42178      yes    None  ...  3823.836629       1685.814842
+42179      yes    None  ...  3823.836629       1685.814842
+42180      yes    None  ...  3823.836629       1685.814842
+42181      yes    None  ...  3823.836629       1685.814842
+42182      yes    None  ...  3823.836629       1685.814842
+
+[42183 rows x 20 columns]
+block summary took 153.34602308273315
+GADM list: ['TZA.2.3.1_1', 'TZA.2.3.2_1', 'TZA.2.3.11_1', 'TZA.2.3.15_1', 'TZA.2.3.25_1', 'TZA.2.3.30_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.15_1.geojson
+Saved to:       building highway  ...    block_pop block_pop_density
+0          yes    None  ...  3591.642691      11607.390715
+1          yes    None  ...  3591.642691      11607.390715
+2          yes    None  ...  3591.642691      11607.390715
+3          yes    None  ...  3591.642691      11607.390715
+4          yes    None  ...  3591.642691      11607.390715
+...        ...     ...  ...          ...               ...
+32783      yes    None  ...   319.343745      13237.056630
+32784      yes    None  ...   201.752056       9674.209375
+32785      yes    None  ...          NaN               NaN
+32786      yes    None  ...          NaN               NaN
+32787      yes    None  ...    51.026476      10457.445841
+
+[32788 rows x 20 columns]
+block summary took 91.32980918884277
+GADM list: ['TZA.2.3.1_1', 'TZA.2.3.2_1', 'TZA.2.3.5_1', 'TZA.2.3.8_1', 'TZA.2.3.10_1', 'TZA.2.3.16_1', 'TZA.2.3.17_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.16_1.geojson
+Saved to:            building highway  ... block_pop block_pop_density
+0               yes    None  ...       NaN               NaN
+1               yes    None  ...       NaN               NaN
+2               yes    None  ...       NaN               NaN
+3               yes    None  ...       NaN               NaN
+4               yes    None  ...       NaN               NaN
+...             ...     ...  ...       ...               ...
+31766           yes    None  ...       NaN               NaN
+31767           yes    None  ...       NaN               NaN
+31768  construction    None  ...       NaN               NaN
+31769           yes    None  ...       NaN               NaN
+31770  construction    None  ...       NaN               NaN
+
+[31771 rows x 20 columns]
+block summary took 94.97662949562073
+GADM list: ['TZA.2.3.1_1', 'TZA.2.3.4_1', 'TZA.2.3.6_1', 'TZA.2.3.14_1', 'TZA.2.3.19_1', 'TZA.2.3.21_1', 'TZA.2.3.26_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.19_1.geojson
+Saved to:          building highway  ... block_pop block_pop_density
+0             yes    None  ...       NaN               NaN
+1             yes    None  ...       NaN               NaN
+2             yes    None  ...       NaN               NaN
+3             yes    None  ...       NaN               NaN
+4             yes    None  ...       NaN               NaN
+...           ...     ...  ...       ...               ...
+32645      mosque    None  ...       NaN               NaN
+32646  commercial    None  ...       NaN               NaN
+32647      school    None  ...       NaN               NaN
+32648  commercial    None  ...       NaN               NaN
+32649         yes    None  ...       NaN               NaN
+
+[32650 rows x 20 columns]
+block summary took 84.69599533081055
+GADM list: ['TZA.2.3.1_1', 'TZA.2.3.10_1', 'TZA.2.3.14_1', 'TZA.2.3.19_1', 'TZA.2.3.21_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.21_1.geojson
+Saved to:           building highway  ...    block_pop block_pop_density
+0              yes    None  ...          NaN               NaN
+1              yes    None  ...          NaN               NaN
+2              yes    None  ...          NaN               NaN
+3              yes    None  ...          NaN               NaN
+4              yes    None  ...          NaN               NaN
+...            ...     ...  ...          ...               ...
+15717  residential    None  ...  1458.892723      13235.387568
+15718    mixed_use    None  ...  1458.892723      13235.387568
+15719  residential    None  ...  1458.892723      13235.387568
+15720  residential    None  ...  1458.892723      13235.387568
+15721  residential    None  ...  1458.892723      13235.387568
+
+[15722 rows x 20 columns]
+block summary took 41.7386953830719
+GADM list: ['TZA.2.3.3_1', 'TZA.2.3.5_1', 'TZA.2.3.17_1', 'TZA.2.3.18_1', 'TZA.2.3.27_1', 'TZA.20.6.16_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.18_1.geojson
+Saved to:       building highway  ... block_pop block_pop_density
+0          yes    None  ...       NaN               NaN
+1          yes    None  ...       NaN               NaN
+2          yes    None  ...       NaN               NaN
+3          yes    None  ...       NaN               NaN
+4          yes    None  ...       NaN               NaN
+...        ...     ...  ...       ...               ...
+56025      yes    None  ...       NaN               NaN
+56026      yes    None  ...       NaN               NaN
+56027      yes    None  ...       NaN               NaN
+56028      yes    None  ...       NaN               NaN
+56029      yes    None  ...       NaN               NaN
+
+[56030 rows x 20 columns]
+block summary took 149.5717053413391
+GADM list: ['TZA.2.1.9_1', 'TZA.2.2.2_1', 'TZA.2.2.8_1', 'TZA.2.2.15_1', 'TZA.2.2.20_1', 'TZA.2.2.26_1', 'TZA.2.2.30_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.2.30_1.geojson
+Saved to:       building highway  ...  block_pop block_pop_density
+0          yes    None  ...        NaN               NaN
+1          yes    None  ...        NaN               NaN
+2          yes    None  ...        NaN               NaN
+3          yes    None  ...        NaN               NaN
+4          yes    None  ...        NaN               NaN
+...        ...     ...  ...        ...               ...
+64404    house    None  ...  67.671212       2653.219433
+64405    house    None  ...  67.671212       2653.219433
+64406      yes    None  ...  67.671212       2653.219433
+64407      yes    None  ...  60.052723       3910.710418
+64408      yes    None  ...  60.052723       3910.710418
+
+[64409 rows x 20 columns]
+block summary took 890.793936252594
+GADM list: ['TZA.2.1.9_1', 'TZA.2.1.20_1', 'TZA.2.2.5_1', 'TZA.2.2.11_1', 'TZA.2.2.20_1', 'TZA.2.2.26_1', 'TZA.20.4.3_1', 'TZA.20.4.4_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.2.11_1.geojson
+Saved to:       building highway  ...   block_pop block_pop_density
+0          yes    None  ...  115.161353       1009.760911
+1          yes    None  ...  115.161353       1009.760911
+2          yes    None  ...  115.161353       1009.760911
+3          yes    None  ...  115.161353       1009.760911
+4          yes    None  ...  115.161353       1009.760911
+...        ...     ...  ...         ...               ...
+44880      yes    None  ...   33.674346        202.680487
+44881      yes    None  ...         NaN               NaN
+44882      yes    None  ...         NaN               NaN
+44883      yes    None  ...   33.674346        202.680487
+44884      yes    None  ...         NaN               NaN
+
+[44885 rows x 20 columns]
+block summary took 1646.7942204475403
+GADM list: ['TZA.2.1.15_1', 'TZA.2.1.26_1', 'TZA.2.3.11_1', 'TZA.2.3.23_1', 'TZA.2.3.25_1', 'TZA.2.3.26_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.23_1.geojson
+Saved to:           building highway  ...    block_pop block_pop_density
+0              yes    None  ...          NaN               NaN
+1              yes    None  ...  3198.413166       6549.659023
+2              yes    None  ...  2966.709131      10205.158994
+3              yes    None  ...  3198.413166       6549.659023
+4              yes    None  ...  2539.650141       6779.491162
+...            ...     ...  ...          ...               ...
+31346   commercial    None  ...          NaN               NaN
+31347  residential    None  ...          NaN               NaN
+31348   commercial    None  ...          NaN               NaN
+31349  residential    None  ...          NaN               NaN
+31350  residential    None  ...          NaN               NaN
+
+[31351 rows x 20 columns]
+block summary took 73.9208014011383
+GADM list: ['TZA.2.3.5_1', 'TZA.2.3.10_1', 'TZA.2.3.16_1', 'TZA.2.3.17_1', 'TZA.2.3.18_1', 'TZA.2.3.27_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.17_1.geojson
+Saved to:       building highway  ...    block_pop block_pop_density
+0          yes    None  ...          NaN               NaN
+1          yes    None  ...          NaN               NaN
+2          yes    None  ...          NaN               NaN
+3          yes    None  ...          NaN               NaN
+4          yes    None  ...          NaN               NaN
+...        ...     ...  ...          ...               ...
+40554      yes    None  ...          NaN               NaN
+40555      yes    None  ...          NaN               NaN
+40556      yes    None  ...          NaN               NaN
+40557      yes    None  ...          NaN               NaN
+40558      yes    None  ...  1474.537266        531.192642
+
+[40559 rows x 20 columns]
+block summary took 258.9775791168213
+GADM list: ['TZA.2.3.7_1', 'TZA.2.3.13_1', 'TZA.2.3.20_1', 'TZA.2.3.24_1', 'TZA.2.3.28_1', 'TZA.2.3.29_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.20_1.geojson
+Saved to:           building highway  ... block_pop block_pop_density
+0              yes    None  ...       NaN               NaN
+1              yes    None  ...       NaN               NaN
+2              yes    None  ...       NaN               NaN
+3              yes    None  ...       NaN               NaN
+4              yes    None  ...       NaN               NaN
+...            ...     ...  ...       ...               ...
+23119  residential    None  ...       NaN               NaN
+23120  residential    None  ...       NaN               NaN
+23121  residential    None  ...       NaN               NaN
+23122  residential    None  ...       NaN               NaN
+23123  residential    None  ...       NaN               NaN
+
+[23124 rows x 20 columns]
+block summary took 202.5368936061859
+GADM list: ['TZA.2.3.1_1', 'TZA.2.3.11_1', 'TZA.2.3.15_1', 'TZA.2.3.23_1', 'TZA.2.3.25_1', 'TZA.2.3.26_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.25_1.geojson
+Saved to:       building highway  ... block_pop block_pop_density
+0          yes    None  ...       NaN               NaN
+1          yes    None  ...       NaN               NaN
+2          yes    None  ...       NaN               NaN
+3          yes    None  ...       NaN               NaN
+4          yes    None  ...       NaN               NaN
+...        ...     ...  ...       ...               ...
+19756      yes    None  ...       NaN               NaN
+19757      yes    None  ...       NaN               NaN
+19758      yes    None  ...       NaN               NaN
+19759   mosque    None  ...       NaN               NaN
+19760      yes    None  ...       NaN               NaN
+
+[19761 rows x 20 columns]
+block summary took 54.06984901428223
+GADM list: ['TZA.2.3.9_1', 'TZA.2.3.20_1', 'TZA.2.3.28_1', 'TZA.2.3.29_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.28_1.geojson
+Saved to:       building highway  ...   block_pop block_pop_density
+0          yes    None  ...  976.333631      14999.821277
+1          yes    None  ...         NaN               NaN
+2          yes    None  ...         NaN               NaN
+3          yes    None  ...         NaN               NaN
+4          yes    None  ...  100.356723       1310.430349
+...        ...     ...  ...         ...               ...
+13804      yes    None  ...  561.444018       2013.872911
+13805      yes    None  ...  561.444018       2013.872911
+13806      yes    None  ...  561.444018       2013.872911
+13807      yes    None  ...  561.444018       2013.872911
+13808      yes    None  ...  561.444018       2013.872911
+
+[13809 rows x 20 columns]
+block summary took 37.74496865272522
+GADM list: ['TZA.2.3.7_1', 'TZA.2.3.10_1', 'TZA.2.3.20_1', 'TZA.2.3.28_1', 'TZA.2.3.29_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.29_1.geojson
+Saved to:           building highway  ...    block_pop block_pop_density
+0              yes    None  ...   138.314421        724.564029
+1              yes    None  ...   138.314421        724.564029
+2              yes    None  ...   138.314421        724.564029
+3              yes    None  ...   138.314421        724.564029
+4              yes    None  ...   138.314421        724.564029
+...            ...     ...  ...          ...               ...
+13704  residential    None  ...  7704.497586       4798.495054
+13705  residential    None  ...  7704.497586       4798.495054
+13706  residential    None  ...  7704.497586       4798.495054
+13707  residential    None  ...  7704.497586       4798.495054
+13708  residential    None  ...  7704.497586       4798.495054
+
+[13709 rows x 20 columns]
+block summary took 74.85147190093994
+GADM list: ['TZA.2.1.1_1', 'TZA.2.1.26_1', 'TZA.2.3.1_1', 'TZA.2.3.4_1', 'TZA.2.3.19_1', 'TZA.2.3.23_1', 'TZA.2.3.25_1', 'TZA.2.3.26_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.26_1.geojson
+Saved to:           building highway  ...   block_pop block_pop_density
+0              yes    None  ...         NaN               NaN
+1              yes    None  ...         NaN               NaN
+2      residential    None  ...         NaN               NaN
+3      residential    None  ...         NaN               NaN
+4      residential    None  ...         NaN               NaN
+...            ...     ...  ...         ...               ...
+26729   commercial    None  ...  191.169343      22424.875040
+26730  residential    None  ...  320.734386      26673.450087
+26731   commercial    None  ...  798.567966      19194.903322
+26732  residential    None  ...  320.734386      26673.450087
+26733  residential    None  ...  224.609941      24661.713295
+
+[26734 rows x 20 columns]
+block summary took 104.6773293018341
+GADM list: ['TZA.2.1.10_1', 'TZA.2.1.12_1', 'TZA.2.1.15_1', 'TZA.2.3.2_1', 'TZA.2.3.11_1', 'TZA.2.3.15_1', 'TZA.2.3.30_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.30_1.geojson
+Saved to:       building highway  ...   block_pop block_pop_density
+0          yes    None  ...         NaN               NaN
+1          yes    None  ...         NaN               NaN
+2          yes    None  ...         NaN               NaN
+3          yes    None  ...         NaN               NaN
+4          yes    None  ...    0.376021          4.787820
+...        ...     ...  ...         ...               ...
+36057      yes    None  ...  319.343745      13237.056630
+36058      yes    None  ...  201.752056       9674.209375
+36059      yes    None  ...  110.489303      13345.702740
+36060      yes    None  ...  110.489303      13345.702740
+36061      yes    None  ...   51.026476      10457.445841
+
+[36062 rows x 20 columns]
+block summary took 102.31895399093628
+GADM list: ['TZA.2.2.2_1', 'TZA.2.2.5_1', 'TZA.2.2.11_1', 'TZA.2.2.13_1', 'TZA.2.2.20_1', 'TZA.2.2.26_1', 'TZA.2.2.30_1', 'TZA.2.2.34_1', 'TZA.20.2.3_1', 'TZA.20.2.8_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.2.20_1.geojson
+Saved to:       building highway  ... block_pop block_pop_density
+0          yes    None  ...       NaN               NaN
+1          yes    None  ...       NaN               NaN
+2          yes    None  ...       NaN               NaN
+3          yes    None  ...       NaN               NaN
+4          yes    None  ...       NaN               NaN
+...        ...     ...  ...       ...               ...
+50101      yes    None  ...       NaN               NaN
+50102      yes    None  ...       NaN               NaN
+50103      yes    None  ...       NaN               NaN
+50104      yes    None  ...       NaN               NaN
+50105      yes    None  ...       NaN               NaN
+
+[50106 rows x 20 columns]
+block summary took 1585.6448812484741
+GADM list: ['TZA.2.3.12_1', 'TZA.2.3.13_1', 'TZA.2.3.22_1', 'TZA.20.6.15_1', 'TZA.20.6.17_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.22_1.geojson
+Saved to:      building highway  ...   block_pop block_pop_density
+0         yes    None  ...         NaN               NaN
+1         yes    None  ...   62.608727        121.228646
+2         yes    None  ...   62.608727        121.228646
+3         yes    None  ...         NaN               NaN
+4         yes    None  ...   62.608727        121.228646
+...       ...     ...  ...         ...               ...
+5079      yes    None  ...  121.725168         81.755508
+5080      yes    None  ...         NaN               NaN
+5081      yes    None  ...         NaN               NaN
+5082      yes    None  ...         NaN               NaN
+5083      yes    None  ...         NaN               NaN
+
+[5084 rows x 20 columns]
+block summary took 566.4205522537231
+GADM list: ['TZA.2.3.12_1', 'TZA.2.3.13_1', 'TZA.2.3.20_1', 'TZA.2.3.24_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.24_1.geojson
+Saved to:       building highway  ...   block_pop block_pop_density
+0          yes    None  ...  669.745028        152.709764
+1          yes    None  ...  669.745028        152.709764
+2          yes    None  ...  669.745028        152.709764
+3          yes    None  ...  669.745028        152.709764
+4          yes    None  ...  669.745028        152.709764
+...        ...     ...  ...         ...               ...
+13012      yes    None  ...   71.184950         47.507773
+13013      yes    None  ...   71.184950         47.507773
+13014      yes    None  ...   71.184950         47.507773
+13015      yes    None  ...   46.674546        139.910842
+13016      yes    None  ...   46.674546        139.910842
+
+[13017 rows x 20 columns]
+block summary took 586.7042167186737
+GADM list: ['TZA.2.3.7_1', 'TZA.2.3.10_1', 'TZA.2.3.13_1', 'TZA.2.3.17_1', 'TZA.2.3.18_1', 'TZA.2.3.27_1', 'TZA.20.6.16_1', 'TZA.20.6.18_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.27_1.geojson
+Saved to:       building highway  ...   block_pop block_pop_density
+0          yes    None  ...         NaN               NaN
+1          yes    None  ...         NaN               NaN
+2          yes    None  ...         NaN               NaN
+3          yes    None  ...         NaN               NaN
+4          yes    None  ...         NaN               NaN
+...        ...     ...  ...         ...               ...
+48175      yes    None  ...    5.678164        271.860054
+48176      yes    None  ...         NaN               NaN
+48177      yes    None  ...         NaN               NaN
+48178      yes    None  ...  115.198814         73.317489
+48179      yes    None  ...    5.057335         64.828687
+
+[48180 rows x 20 columns]
+block summary took 567.9310331344604
+GADM list: ['TZA.2.3.7_1', 'TZA.2.3.12_1', 'TZA.2.3.13_1', 'TZA.2.3.20_1', 'TZA.2.3.22_1', 'TZA.2.3.24_1', 'TZA.2.3.27_1', 'TZA.20.6.17_1', 'TZA.20.6.18_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.3.13_1.geojson
+Saved to:       building highway  ...  block_pop block_pop_density
+0          yes    None  ...        NaN               NaN
+1          yes    None  ...        NaN               NaN
+2          yes    None  ...        NaN               NaN
+3          yes    None  ...        NaN               NaN
+4          yes    None  ...        NaN               NaN
+...        ...     ...  ...        ...               ...
+19030      yes    None  ...        NaN               NaN
+19031      yes    None  ...        NaN               NaN
+19032      yes    None  ...        NaN               NaN
+19033      yes    None  ...        NaN               NaN
+19034      yes    None  ...  32.978027          76.12779
+
+[19035 rows x 20 columns]
+block summary took 1550.755177974701
+GADM list: ['TZA.2.2.1_1', 'TZA.2.2.2_1', 'TZA.2.2.4_1', 'TZA.2.2.10_1', 'TZA.2.2.13_1', 'TZA.2.2.20_1', 'TZA.2.2.21_1', 'TZA.2.2.34_1']
+EPSG:3395
+Saved to: /home/merrittsmith/block_summaries/TZA/TZA.2.2.34_1.geojson
+Saved to:       building highway  ...    block_pop block_pop_density
+0          yes    None  ...          NaN               NaN
+1          yes    None  ...          NaN               NaN
+2          yes    None  ...          NaN               NaN
+3          yes    None  ...          NaN               NaN
+4          yes    None  ...          NaN               NaN
+...        ...     ...  ...          ...               ...
+57991      yes    None  ...   512.797828       1541.203057
+57992    house    None  ...  3622.597127       2329.968575
+57993      yes    None  ...   176.199987       1347.994768
+57994      yes    None  ...   206.664013       4624.668927
+57995      yes    None  ...   206.664013       4624.668927
+
+[57996 rows x 20 columns]
+block summary took 2235.8670148849487

@@ -26,7 +26,7 @@ def filename_helper(code):
 def gen_sbatch_script(code_set, job_num):
     # long-term I think it makes sense to integrate this dask stuff with block_summary 
     # but for now we'll access it via the CLI
-    last_line = ' '.join(['python', '/home/merrittsmith/mnp-analysis/utils/block_summary.py',
+    last_line = ' '.join(['python', '/home/merrittsmith/mnp-analysis/analytics2/utils/block_summary.py',
                     '--aoi_path', code_set['block path'],
                     '--landscan_path', '/project2/bettencourt/mnp/prclz/data/LandScan_Global_2018/raw_tif/ls_2018.tif',
                     '--buildings_dir', '/project2/bettencourt/mnp/prclz/data/buildings/Africa/TZA',
